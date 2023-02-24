@@ -1,11 +1,11 @@
-# Full-Stack-JavaScript-Developer
+# Full Stack JavaScript Developer
 # Curso de Desarrollo Web
-- En este curso aprenderás desde HTML, JavaScript, Ajax, Node.js, Vue.js, React.js, Rest APIs y GraphQL.
+- En este curso aprendí desde HTML, JavaScript, Ajax, Node.js, Vue.js, React.js, Rest APIs y GraphQL.
 ## Contenido del curso
 - 35 secciones
 - 378 clases
 - 59 h 22 m de duración total
-- Ampliar todas las secciones
+
 ## Secciones
 ### Introducción al curso
 - 1 clase 
