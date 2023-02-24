@@ -8,11 +8,9 @@
 
 ## Secciones
 ### Introducción al curso
-- 1 clase 
 - Introducción
-- Vista previa
+
 ### Introducción a HTML y HTML5
-- 14 clases   
 - Qué es html?  
 - Doctype y etiquetas html, head y body  
 - Etiquetas h1, h2... y mi primera página personal  
@@ -29,14 +27,12 @@
 - Formularios parte 4
 
 ### CSS básico para formularios HTML
-- 4 clases   
 - Labels, inputs y espaciado  
 - Border, border-radius, color, ::placeholder, :focus, background  
 - Botones de formulario y sus estilos  
 - Estilos generales de formularios  
 
 ### JavaScript básico
-- 12 clases   
 - Primeros pasos con JavaScript    
 - Primitivas string y number parte 1  
 - Primitivas string y number parte 2  
@@ -51,7 +47,6 @@
 - Arrays, iterables y Array.length  
 
 ### JavaScript intermedio
-- 17 clases   
 - Booleans y condicionales, parte 1    
 - Booleans y condicionales, parte 2  
 - Loops primera parte: for y while  
