@@ -57,4 +57,4 @@ La evolución de la web ha ido incrementando su complejidad, y para mantener est
 
 Dicha especificación ha tenido revisiones y adiciones, las cuales han llevado a que tengamos diferentes versiones de la especificación, actualmente usamos la versión 5 de dicha especificación y es lo que conocemos con la sigla HTML5.
 
-[Vamos a la lección número 2 de este tutorial >>>](leccion2.md)
+[Vamos a la lección número 2 de este tutorial >>>](../02 Doctype y etiquetas html/Readme.md)
