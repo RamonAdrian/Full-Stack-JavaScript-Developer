@@ -25,7 +25,7 @@ pega el siguiente código en él:
   <main>
     <h1>Bienvenidos a mi primera página</h1>
     <h2>Mi nombre es</h2>
-    <p> Camilo Montoya</p>
+    <p> Ramón Morales</p>
   </main>
   <h3>Acerca de mi:</h3>
   <p>Soy desarrollador de software, me gradué de ingeniería de sistemas hace algunos años, llevo trabajando como desarrollador desde el 2006, pero la primera vez que hice código, fue en 1999 cuando estaba en octavo grado, es decir hace 20 años que programo</p>
