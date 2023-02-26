@@ -125,4 +125,4 @@ Esta etiqueta le dice al navegador qué texto debe mostrar en la barra de títul
 
 Tal cual lo que dice dentro de la etiqueta :point_up:
 
-[Vamos a la lección número 3 de este tutorial >>>](leccion3.md)
+[Vamos a la lección número 3 de este tutorial >>>](../03%20Etiquetas%20y%20mi%20primera%20página%20personal/Readme.md)
