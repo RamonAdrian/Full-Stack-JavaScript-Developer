@@ -48,7 +48,7 @@ copia y pega el siguiente código en un archivo nuevo con nombre leccion10.html
     <ul>
       <li>Twitter<a href="https://twitter.com/ramonmora">@ramonmora</a></li>
       <li>Instragram<a href="https://instagram.com/ramonmora">@ramonmora</a></li>
-      <li>Facebook<a href="https://facebook.com/camilomontoyau">@ramonmora</a></li>
+      <li>Facebook<a href="https://facebook.com/ramonmora">@ramonmora</a></li>
     </ul>
 
     <p>
