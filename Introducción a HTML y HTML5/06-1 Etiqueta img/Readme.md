@@ -62,3 +62,7 @@ Creemos un archivo que se llame ejemplo12.html y peguemos el siguiente código:
 </body>
 </html>
 ```
+¿Notas algún cambio en la imagen?
+
+
+[Vamos a la lección número 13 de este tutorial >>>](leccion13.md)
