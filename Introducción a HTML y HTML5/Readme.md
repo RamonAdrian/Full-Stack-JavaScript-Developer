@@ -5,7 +5,7 @@
 - Comentar código html  
 - Etiquetas html5 de estructura, main, header, footer  
 - Etiqueta img    
-- Etiqueta a   enlaces a otros documentos web  
+- Etiqueta <a> (anchor) enlaces a otros documentos web  
 - Enlaces internos y listas en HTML  
 - Listas ordenadas e inputs  
 - Inputs parte 2  
