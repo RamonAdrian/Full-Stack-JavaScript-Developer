@@ -35,7 +35,7 @@ Crea un archivo ejemplo9.html y pega el siguiente código en él:
   </header>
 
   <header>
-  <p>Camilo es una persona que trabaja en la industria del software</p>
+  <p>Ramón es una persona que trabaja en la industria del software</p>
 
   <p>Le encanta el lenguaje javascript y su framework frontend favorito es vueJS</p>
   </header>
