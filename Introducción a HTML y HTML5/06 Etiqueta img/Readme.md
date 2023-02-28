@@ -26,7 +26,7 @@ Creemos un archivo que se llame ejemplo11.html y peguemos el siguiente código
   <p>Soy desarrollador de software, me gradué de ingeniería de sistemas hace algunos años, llevo trabajando como desarrollador desde el 2006, pero la primera vez que hice código, fue en 1999 cuando estaba en octavo grado, es decir hace 20 años que programo</p>
   </header>
 
-  <img src="https://media.licdn.com/dms/image/C5603AQHd8Lkzi2x7ow/profile-displayphoto-shrink_800_800/0/1661831801868?e=1683158400&amp;v=beta&amp;t=OvFQo-u6qrfSGheP0uiEGcUp4N_-URSnE4nTc1F0NjY" loading="lazy" alt="imagen de perfil" id="ember352" class="lazy-image imgedit-profile-photo-frame-viewer__target-image ember-view">
+  <img src="https://1.bp.blogspot.com/-_8zWqRJSgrA/XOonaO2T5tI/AAAAAAAAQ9c/E9-kwtsavc4EFYA2uycyU_Y5KNQIox8LACLcBGAs/s200/yzGVZJ4H.jpg">
   <header>
   <p>Ramón es una persona que trabaja en la industria del software</p>
 
