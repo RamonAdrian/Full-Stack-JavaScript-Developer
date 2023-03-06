@@ -14,7 +14,7 @@ El método **GET** envía los datos a través de la **URL**, mientras que el mé
 </head>
 <body>
 	<h1>Formulario con método POST</h1>
-	<form action="procesar.php" method="POST" enctype="multipart/form-data">
+	<form action="http://localhost" method="POST" enctype="multipart/form-data">
 		<label for="nombre">Nombre:</label>
 		<input type="text" name="nombre" id="nombre">
 		<br>
@@ -28,7 +28,7 @@ El método **GET** envía los datos a través de la **URL**, mientras que el mé
 	</form>
 
 	<h1>Formulario con método GET</h1>
-	<form action="procesar.php" method="GET">
+	<form action="http://localhost" method="GET">
 		<label for="busqueda">Búsqueda:</label>
 		<input type="text" name="busqueda" id="busqueda">
 		<br>
