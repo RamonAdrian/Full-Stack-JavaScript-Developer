@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ejemplo Formulario con POST y GET</title>
+</head>
+<body>
+	<h1>Formulario con método POST</h1>
+	<form action="procesar.php" method="POST" enctype="multipart/form-data">
+		<label for="nombre">Nombre:</label>
+		<input type="text" name="nombre" id="nombre">
+		<br>
+		<label for="apellido">Apellido:</label>
+		<input type="text" name="apellido" id="apellido">
+		<br>
+		<label for="archivo">Archivo:</label>
+		<input type="file" name="archivo" id="archivo">
+		<br>
+		<input type="submit" value="Enviar">
+	</form>
+
+	<h1>Formulario con método GET</h1>
+	<form action="procesar.php" method="GET">
+		<label for="busqueda">Búsqueda:</label>
+		<input type="text" name="busqueda" id="busqueda">
+		<br>
+		<input type="submit" value="Buscar">
+	</form>
+</body>
+</html>

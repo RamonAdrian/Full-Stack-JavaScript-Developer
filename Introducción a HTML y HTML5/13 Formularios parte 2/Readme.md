@@ -6,7 +6,41 @@ Luego, se muestra cómo se manejan los parámetros de la web cuando se envían d
 
 El método GET envía los datos a través de la URL, mientras que el método POST los envía a través de un atributo llamado Body. El método POST se utiliza comúnmente para crear recursos, como usuarios, y que los datos se envían en un atributo llamado payload.
 
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ejemplo Formulario con POST y GET</title>
+</head>
+<body>
+	<h1>Formulario con método POST</h1>
+	<form action="procesar.php" method="POST" enctype="multipart/form-data">
+		<label for="nombre">Nombre:</label>
+		<input type="text" name="nombre" id="nombre">
+		<br>
+		<label for="apellido">Apellido:</label>
+		<input type="text" name="apellido" id="apellido">
+		<br>
+		<label for="archivo">Archivo:</label>
+		<input type="file" name="archivo" id="archivo">
+		<br>
+		<input type="submit" value="Enviar">
+	</form>
+
+	<h1>Formulario con método GET</h1>
+	<form action="procesar.php" method="GET">
+		<label for="busqueda">Búsqueda:</label>
+		<input type="text" name="busqueda" id="busqueda">
+		<br>
+		<input type="submit" value="Buscar">
+	</form>
+</body>
+</html>
+```
+
 El atributo enctype, que se utiliza para especificar la codificación de los datos que se envían a través de un formulario. Por defecto, el valor es url-encode, pero hay otros valores que se pueden utilizar, como text/plain o application/x-www-form-urlencoded. Se muestra cómo cambiar el valor de este atributo y cómo afecta a los datos que se envían.
+
+>Es importante tener en cuenta que la codificación multipart/form-data se utiliza sólo cuando se envían archivos a través de un formulario. Para los formularios que sólo envían texto, se utiliza la codificación por defecto, application/x-www-form-urlencoded.
 
 En resumen, es una explicación sobre cómo se manejan los datos que se envían a través de un formulario en HTML, incluyendo los parámetros de la web, los métodos GET y POST, y el atributo enctype.
 
