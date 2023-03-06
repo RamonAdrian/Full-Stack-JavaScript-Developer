@@ -40,7 +40,7 @@ El método **GET** envía los datos a través de la **URL**, mientras que el mé
 
 El atributo enctype, que se utiliza para especificar la codificación de los datos que se envían a través de un formulario. Por defecto, el valor es **url-encode**, pero hay otros valores que se pueden utilizar, como **text/plain** o **application/x-www-form-urlencoded**. Se muestra cómo cambiar el valor de este atributo y cómo afecta a los datos que se envían.
 
->Es importante tener en cuenta que la codificación **multipart/form-data** se utiliza sólo cuando se envían archivos a través de un formulario. Para los formularios que sólo envían texto, se utiliza la codificación por defecto, application/x-www-form-urlencoded.
+>Es importante tener en cuenta que la codificación **multipart/form-data** se utiliza sólo cuando se envían archivos a través de un formulario. Para los formularios que sólo envían texto, se utiliza la codificación por defecto, **application/x-www-form-urlencoded**.
 
 En resumen, es una explicación sobre cómo se manejan los datos que se envían a través de un formulario en **HTML**, incluyendo los parámetros de la web, los métodos **GET** y **POST**, y el atributo **enctype**.
 
