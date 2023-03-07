@@ -27,4 +27,4 @@ dentro de ejemplo3.html pon el siguiente código:
 
 así le has puesto un título a tu página
 
-[Vamos a la lección número 4 de este tutorial >>>](leccion4.md)
+[Vamos a la lección número 3.1 de este tutorial >>>](../03-1%20Etiquetas%20y%20mi%20primera%20página%20personal/Readme.md)
