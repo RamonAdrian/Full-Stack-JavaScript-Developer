@@ -1,5 +1,5 @@
 ## Introducción a HTML y HTML5
-- [Qué es html?](../01%20Que%20es%20html/Readme.md)
+- [Qué es html?](./01%20Que%20es%20html/Readme.md)
 - Doctype y etiquetas html, head y body  
 - Etiquetas h1, h2... y mi primera página personal  
 - Comentar código html  
