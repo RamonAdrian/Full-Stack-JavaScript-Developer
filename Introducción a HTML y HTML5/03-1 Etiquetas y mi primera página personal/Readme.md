@@ -1,4 +1,4 @@
-# Lección 4: Crearemos un subtítulo:
+# Lección 3.1: Crearemos un subtítulo:
 
 En html tenemos varias formas de crear títulos y jerarquías entre estos, en el ejemplo anterior creamos un título principal con la etiqueta `<h1>`, pero, existen varios tipos de encabezados que van desde h1 hasta h6
 
@@ -31,4 +31,4 @@ copia el siguiente código dentro de dicho archivo
 
 abre el archivo en tu navegador de preferencia, ¿notas alguna diferencia entre cada uno de los encabezados?
 
-[Vamos a la lección número 5 de este tutorial >>>](leccion5.md)
+[Vamos a la lección número 3.2 de este tutorial >>>](../03-2%20Etiquetas%20y%20mi%20primera%20página%20personal/Readme.md)
