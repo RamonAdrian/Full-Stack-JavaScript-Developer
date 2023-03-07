@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario HTML</title>
+</head>
+<body>
+	<form>
+		<label for="nombre">Nombre:</label>
+		<input type="text" id="nombre" name="nombre"><br>
+
+		<label for="email">Email:</label>
+		<input type="email" id="email" name="email"><br>
+
+		<label for="password">Contraseña:</label>
+		<input type="password" id="password" name="password"><br>
+		<p>Nota: El tipo de contraseña no oculta la información que se ingresa y cualquier persona que use una conexión no segura podría ver la contraseña.</p>
+
+		<label for="slider">Control deslizante:</label>
+		<input type="range" id="slider" name="slider" min="0" max="100" step="1" value="50"><br>
+		<p>Nota: Los valores predeterminados y los valores personalizados se pueden establecer para elementos como el control deslizante de rango.</p>
+
+		<label for="checkbox">Casilla de verificación:</label>
+		<input type="checkbox" id="checkbox" name="checkbox" value="1"><br>
+
+		<label for="fecha">Fecha:</label>
+		<input type="date" id="fecha" name="fecha"><br>
+
+		<label for="semana">Semana:</label>
+		<input type="week" id="semana" name="semana"><br>
+		<p>Nota: La entrada de "semana" toma la semana del año y hay una notación específica utilizada para este propósito.</p>
+
+		<label for="url">URL:</label>
+		<input type="url" id="url" name="url"><br>
+		<p>Nota: La entrada de URL es simplemente una entrada de texto normal que acepta cualquier URL.</p>
+
+		<input type="submit" value="Enviar">
+		<input type="reset" value="Restablecer">
+	</form>
+</body>
+</html>
