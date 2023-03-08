@@ -1,4 +1,4 @@
-# Lección 14: Revisemos otros atributos de la etiqueta anchor `<a>`
+# Lección 7.1: Revisemos otros atributos de la etiqueta anchor `<a>`
 
 
 ¿Te diste cuenta que usamos el atributo `href` de `<a>` ?
@@ -66,4 +66,4 @@ Ahora da click nuevamente en la imagen de tu página.
 
 El atributo `target="_blank"` le dice al navegador que abra el vínculo en una nueva pestaña.
 
-[Vamos a la lección número 15 de este tutorial >>>](leccion15.md)
+[Vamos a la lección número 8 de este tutorial >>>](../08%20Enlaces%20internos%20y%20listas%20en%20HTML/Readme.md)
