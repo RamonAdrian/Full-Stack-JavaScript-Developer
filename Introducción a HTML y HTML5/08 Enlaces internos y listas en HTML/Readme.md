@@ -1,4 +1,4 @@
-# Lección 15: Links internos
+# Lección 8: Links internos
 
 La etiqueta anchor también nos permite visitar secciones dentro de nuestra propia página
 
@@ -81,4 +81,4 @@ crea un archivo ejemplo15.html y pega el siguiente código:
 
 La razón por la cual los anchor anteriores funcionan es porque en cada una de las etiquetas `<a>` se usó el atributo `href` pero en este caso no le dió una dirección interna sino que se le pasó un id de un elemento interno `href="#lorem1"` el caracter **#** le indica al navegador que va a buscar un id interno en vez de navegar a otra página, el navegador moverá el scroll hasta que encuentre un elemento con el atributo `id="lorem1"`
 
-[Vamos a la lección número 16 de este tutorial >>>](leccion16.md)
+[Vamos a la lección número 9 de este tutorial >>>](../09%20listas%20desordenadas%20en%20HTML/Readme.md)
