@@ -1,4 +1,4 @@
-# Lección 13: Anchor 
+# Lección 7: Anchor 
 
 
 Las documentos html tienen una forma de enlazarse unos con otros, esos elementos html para enlazar se llaman **anchor** y se representan con el tag `<a>`
@@ -57,4 +57,4 @@ copia y pega el siguiente código en un archivo que se llame ejemplo13.html
 </html>
 ```
 
-[Vamos a la lección número 14 de este tutorial >>>](leccion14.md)
+[Vamos a la lección número 7.1 de este tutorial >>>](../07-1%20Etiqueta%20--a--%20anchor%20-%20enlaces%20a%20otros%20documentos%20web/Readme.md)
