@@ -1,4 +1,4 @@
-# Lección 10: Etiqueta footer
+# Lección 5.2: Etiqueta footer
 
 
 La etiqueta  `<footer>` define el pie de página (footer en inglés) para un documento.
@@ -66,4 +66,4 @@ copia y pega el siguiente código en un archivo nuevo con nombre leccion10.html
 ```
 
 
-[Vamos a la lección número 11 de este tutorial >>>](leccion11.md)
+[Vamos a la lección número 6 de este tutorial >>>](../06%20Etiqueta%20img/Readme.md)
