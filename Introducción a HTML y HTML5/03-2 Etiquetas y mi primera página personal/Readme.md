@@ -1,4 +1,4 @@
-# Lección 5: Vamos a hacer una descripción de nosotros mismos
+# Lección 3.2: Vamos a hacer una descripción de nosotros mismos
 
 En la lección anterior te diste cuenta que las etiquetas h1, h2 .... cambian de tamaño.
 
@@ -22,7 +22,7 @@ Ahora copiemos el siguiente código dentro de ese archivo:
 <body>
   <h1>Bienvenidos a mi primera página</h1>
   <h2>Mi nombre es</h2>
-  <p> Camilo Montoya</p>
+  <p> Ramón Morales</p>
   <h3>Acerca de mi:</h3>
   <p>Soy desarrollador de software, me gradué de ingeniería de sistemas hace algunos años, llevo trabajando como desarrollador desde el 2006, pero la primera vez que hice código, fue en 1999 cuando estaba en octavo grado, es decir hace 20 años que programo</p>
 </body>
@@ -31,4 +31,4 @@ Ahora copiemos el siguiente código dentro de ese archivo:
 
 Abre ejemplo5.html en un navegador y revisa tu página personal con tu minibiografía
 
-[Vamos a la lección número 6 de este tutorial >>>](leccion6.md)
+[Vamos a la lección número 4 de este tutorial >>>](../04%20Comentar%20código%20html/Readme.md)
