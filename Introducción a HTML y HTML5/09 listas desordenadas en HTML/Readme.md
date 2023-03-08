@@ -1,4 +1,4 @@
-# Lección 16: Crea listas de elementos con html
+# Lección 9: Crea listas de elementos con html
 
 
 En html tenemos elementos que dependen de otros para poder mostrarse en la pantalla
@@ -100,4 +100,4 @@ Pero esa lista no viene sola, debe tener elementos, y para poder darle elementos
 
 ## ¿Notaste el cambio?
 
-[Vamos a la lección número 17 de este tutorial >>>](leccion17.md)
+[Vamos a la lección número 10 de este tutorial >>>](../10%20Listas%20ordenadas/Readme.md)
