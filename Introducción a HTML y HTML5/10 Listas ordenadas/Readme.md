@@ -1,4 +1,4 @@
-# Lección 17: Crea listas de elementos con html
+# Lección 10: Crea listas de elementos con html
 
 
 ## el segundo tipo de lista es
@@ -98,4 +98,4 @@ Pero esta lista tampoco funciona sola, debe tener elementos, y para poder darle 
 
 ## ¿Notaste el cambio?
 
-[Vamos a la lección número 18 de este tutorial >>>](leccion18.md)
+[Vamos a la lección número 11 de este tutorial >>>](../11%20Inputs%20parte%20uno/Readme.md)
