@@ -1,4 +1,4 @@
-# Lección 9: La etiqueta header
+# Lección 5.1: La etiqueta header
 
 
 La función de la etiqueta `<header>` es representar contenido introductorio o un conjunto de links navegables
@@ -45,4 +45,4 @@ Crea un archivo ejemplo9.html y pega el siguiente código en él:
 
 Nota que así como `<main>`, la etiqueta `<header>` no genera modificaciones visuales, pero estructuralmente le estás dando una mejor semántica a tu documento html, y esto los buscadores como google o bing lo saben recompensar muy bien, porque le estás dando jerarquía a tu documento.
 
-[Vamos a la lección número 10 de este tutorial >>>](leccion10.md)
+[Vamos a la lección número 5.2 de este tutorial >>>](../05-2%20Etiquetas%20html5%20de%20estructura/Readme.md)
