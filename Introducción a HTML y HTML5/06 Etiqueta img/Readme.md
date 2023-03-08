@@ -1,4 +1,4 @@
-# Lección 11: Pongamosle imágenes a nuestra página
+# Lección 6: Pongamosle imágenes a nuestra página
 
 La etiqueta `<img>` nos sirve para poner imágenes en nuestra página
 
@@ -55,4 +55,4 @@ Creemos un archivo que se llame ejemplo11.html y peguemos el siguiente código
 </body>
 </html>
 ```
-[Vamos a la lección número 12 de este tutorial >>>](leccion12.md)
+[Vamos a la lección número 6.1 de este tutorial >>>](../06-1%20Etiqueta%20img/Readme.md)
