@@ -1,4 +1,4 @@
-# Lección 8: html5
+# Lección 5: html5
 
 
 Como vimos anteriormente html es definido por un estándar, al cual, se le han agregado nuevas etiquetas y elementos
@@ -36,4 +36,4 @@ pega el siguiente código en él:
 Una vez abras el archivo en un navegador, vas a notar que visualmente el código no cambia, pero esto no significa que estructuralmente no cambie, para los robots del buscador de google esto será genial porque les estás facilitando el trabajo!
 
 
-[Vamos a la lección número 9 de este tutorial >>>](leccion9.md)
+[Vamos a la lección número 5.1 de este tutorial >>>](../05-1%20Etiquetas%20html5%20de%20estructura/Readme.md)
