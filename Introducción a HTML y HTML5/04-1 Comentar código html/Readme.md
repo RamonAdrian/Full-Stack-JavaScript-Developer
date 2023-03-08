@@ -1,4 +1,4 @@
-# Lección 7: Comentarios en html
+# Lección 4.1: Comentarios en html
 
 Los comentarios son una herramienta con la cual puedes dejar notas en tú código html que puedes usar para recordar las intenciones de tu código en el futuro, si tu proyecto de página es muy largo y requiere de varios días trabajar en este.
 
@@ -30,4 +30,4 @@ y pega el siguiente código en él:
 Ahora revísalo en un navegador
 ¿Notas qué pasa con el título principal de tu página?
 
-[Vamos a la lección número 8 de este tutorial >>>](leccion8.md)
+[Vamos a la lección número 5 de este tutorial >>>](../05%20Etiquetas%20html5%20de%20estructura/Readme.md)
