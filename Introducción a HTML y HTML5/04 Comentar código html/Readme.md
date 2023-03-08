@@ -1,4 +1,4 @@
-# Lección 6: Comentarios
+# Lección 4: Comentarios
 
 Cómo desarrolladores de páginas web, a veces necesitamos tener marcas o herramientas con las cuales podamos recordar en el tiempo o remover temporalmente contenido, esto con el fin de saber por qué hicimos algo.
 
@@ -35,4 +35,4 @@ Ahora abre el archivo ejemplo6.html en un navegador
 ``` 
 ?
 
-[Vamos a la lección número 7 de este tutorial >>>](leccion7.md)
+[Vamos a la lección número 4.1 de este tutorial >>>](../04-1%20Comentar%20código%20html/Readme.md)
