@@ -1,4 +1,4 @@
-# Lección 20: Seguimos trabajando con formularios
+# Lección 13: Seguimos trabajando con formularios
 
 Esta es una explicación sobre formularios en **HTML** y cómo se manejan los datos que se envían a través de ellos. En primer lugar, se menciona que hay varios tipos de datos que se pueden enviar a través de un formulario, como texto **HTML**, **XHTML**, **CPH**, imágenes y otros elementos.
 
@@ -44,4 +44,4 @@ El atributo enctype, que se utiliza para especificar la codificación de los dat
 
 En resumen, es una explicación sobre cómo se manejan los datos que se envían a través de un formulario en **HTML**, incluyendo los parámetros de la web, los métodos **GET** y **POST**, y el atributo **enctype**.
 
-# Lección 21: Siguiente
+[Vamos a la lección número 14 de este tutorial >>>](../14%20Formularios%20parte%203/Readme.md)
