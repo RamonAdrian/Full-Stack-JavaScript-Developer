@@ -1,4 +1,4 @@
-# Lección 21: Seguimos trabajando con Formualrios
+# Lección 14: Seguimos trabajando con Formualrios
 
 En esta lección se enseña cómo enviar información a un servidor utilizando formularios web. Se muestra cómo enviar archivos grandes utilizando el método **POST** y el tipo de codificación **multipart/form data**. Luego, se explica cómo enviar diferentes tipos de información como **time**, **date**, **datetime** y **checkbox**, y cómo se envían los valores de estos inputs al servidor. Además, menciona que los formatos de fecha varían dependiendo de la configuración regional de la computadora. A lo largo de la clase, se va comentando y probando diferentes secciones del código en tiempo real.
 
@@ -33,4 +33,4 @@ En esta lección se enseña cómo enviar información a un servidor utilizando f
 
 En resumen, la clase trata sobre cómo enviar información a un servidor utilizando formularios web, y cómo diferentes tipos de inputs envían diferentes tipos de información. Se muestra cómo enviar archivos grandes y cómo se puede utilizar la codificación multipart/form data para hacerlo. También menciona que las fechas pueden variar en formato dependiendo de la configuración regional de la computadora.
 
-# Lección 22: Siguiente
+[Vamos a la lección número 15 de este tutorial >>>](../15%20Formularios%20parte%204/Readme.md)
