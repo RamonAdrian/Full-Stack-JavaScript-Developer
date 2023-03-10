@@ -1,4 +1,4 @@
-# Lección 22: terminamos de trabajar con Formualrios
+# Lección 15: terminamos de trabajar con Formualrios
 
 El texto que se ha transcritbido describe cómo funcionan diferentes tipos de elementos de un formulario web en **HTML**. El autor muestra cómo cada elemento, como los **botones de enviar** o **restablecer**, las **casillas de verificación** y los **campos de entrada de texto**, funcionan en la página web. En particular, se enfoca en el elemento **type="password"** y advierte que este no oculta la información que se ingresa y que cualquier persona que use una conexión no segura podría ver la contraseña. También se muestra cómo los valores predeterminados y los valores personalizados se pueden establecer para elementos como el **control deslizante de rango**.
 
