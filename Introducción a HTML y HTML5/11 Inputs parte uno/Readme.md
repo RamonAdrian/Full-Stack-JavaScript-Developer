@@ -1,4 +1,4 @@
-# Lección 18: Empecemos a trabajar con datos
+# Lección 11: Empecemos a trabajar con datos
 
 
 Una de los casos de uso más comunes de los documentos html y páginas web, es trabajar con datos y posteriormente capturarlos.
@@ -47,4 +47,4 @@ Vamos a ver este tipo de campos en acción, con el siguiente código:
 </html>
 ```
 
-# Lección 19: Coming soon
+[Vamos a la lección número 12 de este tutorial >>>](../12%20Formularios%20parte%201/Readme.md)
